@@ -111,9 +111,6 @@ USE CURLY BRACES ON ERROR TESTS AND ONE LINE SYNTAX
 
 Week learning - don't need to go through all resources so don't stress. Take time to reflect.
 
-
-
-
 Weekend Goals
 
 Get Trello set up
